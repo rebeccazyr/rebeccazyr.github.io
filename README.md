@@ -1,18 +1,15 @@
-This repository hosts a personal academic homepage generated using **jemdoc**.
+# Personal Homepage
 
-## Usage
-- Edit `.jemdoc` files to update your homepage content.
-- Run `jemdoc` to regenerate the `.html` pages.
-- Styles are defined in `jemdoc.css`.
+This repository contains the source files for Yirui Zhang's personal homepage, including HTML, CSS, and images.
 
-## Notes
-- **Copyright:**  
-  Please ensure that any papers, images, or other media included in this site are your own work, or that you have the right to use and share them.
+## License and Privacy
+- All content on this homepage (text, images, publications) is copyrighted by Yirui Zhang.  
+- Please do **not** redistribute, copy, or use content without permission.  
+- Contact information is provided for professional or academic inquiries only.  
+- Personal data should be handled with care and used responsibly.
 
-- **Privacy:**  
-  Avoid publishing sensitive personal information (e.g., phone numbers, detailed addresses, or private documents).  
-  Only include information you are comfortable sharing publicly.
-
+## Contact
+- Email: `rebeccazhangyr[at]icloud.com`
 ---
 
 © rebeccazyr. All rights reserved.
