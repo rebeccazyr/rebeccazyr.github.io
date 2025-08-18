@@ -1,7 +1,3 @@
-# Personal Homepage
-
-This repository contains the source files for Yirui Zhang's personal homepage, including HTML, CSS, and images.
-
 ## License and Privacy
 - All content on this homepage (text, images, publications) is copyrighted by Yirui Zhang.  
 - Please do **not** redistribute, copy, or use content without permission.  
